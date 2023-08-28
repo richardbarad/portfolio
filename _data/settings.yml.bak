@@ -3,8 +3,11 @@
 
 logo: '/assets/img/musa-logo.png'
 
+<<<<<<< HEAD
 intro_title: A Wonderful 10-word Summary about me!
-
+=======
+intro_title: My Personal Mission 10-word Summary
+>>>>>>> 6fb968eeed8e62a47613d91ff92038b104131c63
 intro_text: |
   A brief couple of sentences describing your personal mission statement goes
   here. This is a great place to very succinctly tell a visitor what drives you
