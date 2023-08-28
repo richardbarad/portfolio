@@ -3,7 +3,7 @@ layout: post
 title: 'Project One'
 thumbnail: /assets/img/projects/proj-1/thumbnail.jpg
 ---
-##Heading 1
+## Heading 1
 
 ### About
 
